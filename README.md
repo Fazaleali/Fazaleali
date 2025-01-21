@@ -4,8 +4,6 @@
 1. **Web Development**: ReactJS, NodeJS, NextJS, MongoDB  
 2. **JavaScript/TypeScript**
 
-[![Visits Badge](https://badges.pufler.dev/visits/fazaleali/badge-it/Visits-500-brightgreen)](https://badges.pufler.dev)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fazaleali_)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fazal-e-ali-abidi-903877202)  
