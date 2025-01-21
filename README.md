@@ -1,4 +1,5 @@
 # 💫 About Me:
+🚀 **I am a Software Engineer!**  
 💬 **Ask me about:**  
 1. **Web Development**: ReactJS, NodeJS, NextJS, MongoDB  
 2. **JavaScript/TypeScript**  
